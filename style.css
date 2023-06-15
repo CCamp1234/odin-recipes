@@ -1,0 +1,24 @@
+/* styles */
+h1 {
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+h2 {
+    font-weight: 600;
+    color: white;
+}
+h3 {
+    font-weight: 400;
+    color: white;
+}
+body {
+    background-color: rgb(66, 57, 57);
+}
+ol {
+    color: white;
+}
+img {
+    height: auto;
+    width: 250px;
+}
